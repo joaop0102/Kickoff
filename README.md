@@ -4,7 +4,7 @@ Perfeito! Como você criou a pasta `kick-imgs` e organizou as imagens localmente
 
 # ⚽ KickOff – Jogue, Conecte, Evolua!
 
-![KickOff Logo](./kick-imgs/icone%20do%20aplicativo.png)
+![KickOff Logo](./kick-imgs/icone.png)
 
 **KickOff** é um aplicativo mobile que conecta pessoas para jogar futebol amador. Organize seus rachões, encontre partidas próximas e participe da comunidade futebolística local — tudo com poucos cliques!
 
