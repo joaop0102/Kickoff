@@ -76,18 +76,3 @@ flutter run
 | ![Tela 1](https://github.com/seu-usuario/seu-repo/blob/main/assets/Explicação%20App%20\(Apresentação%202\).png) | ![Tela 2](https://github.com/seu-usuario/seu-repo/blob/main/assets/Explicação%20App%20\(Apresentação%203\).png) | ![Mapa](https://github.com/seu-usuario/seu-repo/blob/main/assets/Botão%20de%20navegação%20pós%20clique.png) |
 
 ---
-
-## 🤝 Contribuições
-
-Contribuições são muito bem-vindas! Sinta-se à vontade para abrir *issues*, sugerir melhorias ou enviar *pull requests*.
-
----
-
-## 📧 Contato
-
-📩 [seu-email@email.com](mailto:seu-email@email.com)
-🔗 [LinkedIn](https://linkedin.com/in/seu-usuario)
-
----
-
-Se quiser, posso gerar esse README já com as URLs corretas das imagens se você subir os arquivos na pasta `assets` do seu repositório GitHub. Deseja que eu gere esse markdown com imagens hospedadas localmente para você subir direto?
