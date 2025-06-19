@@ -2,7 +2,7 @@ Perfeito! Como você criou a pasta `kick-imgs` e organizou as imagens localmente
 
 ---
 
-# ⚽ KickOff – Jogue, Conecte, Evolua!
+# KickOff – Jogue, Conecte, Evolua!
 
 ![KickOff Logo](./kick-imgs/icone.png)
 
@@ -10,7 +10,7 @@ Perfeito! Como você criou a pasta `kick-imgs` e organizou as imagens localmente
 
 ---
 
-## 📱 Visão Geral
+##  Visão Geral
 
 ![Apresentação 1](./kick-imgs/tela1.png)
 ![Apresentação 2](./kick-imgs/tela2.png)
@@ -25,22 +25,13 @@ Visualize locais, marque jogos e explore equipes e campos próximos com o mapa i
 
 ---
 
-## 🎯 Funcionalidades Principais
+##  Funcionalidades Principais
 
-* ✅ Marque partidas de forma rápida e intuitiva
-* 👥 Crie ou junte-se a equipes locais
-* 🧠 Sistema de pontos e ranking por participação
-* 📍 Localização geográfica de jogos e jogadores
-* 📅 Organização de eventos e treinos
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-* Flutter / Dart
-* Firebase Auth & Firestore
-* Google Maps API
-* Design com Figma (tema esportivo e gamificado)
+*  Marque partidas de forma rápida e intuitiva
+*  Crie ou junte-se a equipes locais
+*  Sistema de pontos e ranking por participação
+*  Localização geográfica de jogos e jogadores
+*  Organização de eventos e treinos
 
 ---
 
@@ -62,6 +53,6 @@ Com nosso sistema de pontuação, você ganha recompensas por:
 
 | Tela Inicial                                                 | Explicação                                               | Mapa Interativo                                            |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------- |
-| ![](./kick-imgs/explicação%20app%20\(Apresentação%202\).png) | ![](./kick-imgs/Explicação%20App%20\(Apresentação\).png) | ![](./kick-imgs/botão%20de%20navegação%20pós%20clique.png) |
+| ![](./kick-imgs/tela1.png) | ![](./kick-imgs/tela2.png) | ![](./kick-imgs/mapa.png) |
 
 ---
