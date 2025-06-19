@@ -12,8 +12,8 @@ Perfeito! Como você criou a pasta `kick-imgs` e organizou as imagens localmente
 
 ## 📱 Visão Geral
 
-![Apresentação 1](./kick-imgs/explicação%20app%20\(Apresentação%202\).png)
-![Apresentação 2](./kick-imgs/Explicação%20App%20\(Apresentação\).png)
+![Apresentação 1](./kick-imgs/tela1.png)
+![Apresentação 2](./kick-imgs/tela2.png)
 
 ---
 
@@ -21,7 +21,7 @@ Perfeito! Como você criou a pasta `kick-imgs` e organizou as imagens localmente
 
 Visualize locais, marque jogos e explore equipes e campos próximos com o mapa interativo integrado:
 
-![Mapa do App](./kick-imgs/botão%20de%20navegação%20pós%20clique.png)
+![Mapa do App](./kick-imgs/mapa.png)
 
 ---
 
@@ -58,17 +58,6 @@ Com nosso sistema de pontuação, você ganha recompensas por:
 
 ---
 
-## 📦 Instalação
-
-```bash
-git clone https://github.com/seu-usuario/kickoff.git
-cd kickoff
-flutter pub get
-flutter run
-```
-
----
-
 ## 📸 Capturas de Tela
 
 | Tela Inicial                                                 | Explicação                                               | Mapa Interativo                                            |
@@ -76,19 +65,3 @@ flutter run
 | ![](./kick-imgs/explicação%20app%20\(Apresentação%202\).png) | ![](./kick-imgs/Explicação%20App%20\(Apresentação\).png) | ![](./kick-imgs/botão%20de%20navegação%20pós%20clique.png) |
 
 ---
-
-## 🤝 Contribuições
-
-Contribuições são muito bem-vindas!
-Sinta-se à vontade para abrir *issues*, sugerir melhorias ou enviar *pull requests*.
-
----
-
-## 📧 Contato
-
-📩 [seu-email@email.com](mailto:seu-email@email.com)
-🔗 [LinkedIn](https://linkedin.com/in/seu-usuario)
-
----
-
-Se quiser, posso gerar esse conteúdo como um arquivo `README.md` formatado e pronto para você copiar/colar ou fazer upload direto. Deseja isso?
