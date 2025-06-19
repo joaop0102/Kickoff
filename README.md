@@ -1,10 +1,10 @@
-Aqui está uma sugestão de estilização profissional e criativa para a apresentação do seu repositório **KickOff** no GitHub, utilizando as imagens que você enviou:
+Perfeito! Como você criou a pasta `kick-imgs` e organizou as imagens localmente no seu repositório, aqui está o **README estilizado e ajustado** com os caminhos relativos corretos:
 
 ---
 
 # ⚽ KickOff – Jogue, Conecte, Evolua!
 
-![KickOff Logo](./kick-imgs)
+![KickOff Logo](./kick-imgs/icone%20do%20aplicativo.png)
 
 **KickOff** é um aplicativo mobile que conecta pessoas para jogar futebol amador. Organize seus rachões, encontre partidas próximas e participe da comunidade futebolística local — tudo com poucos cliques!
 
@@ -12,8 +12,8 @@ Aqui está uma sugestão de estilização profissional e criativa para a apresen
 
 ## 📱 Visão Geral
 
-![Apresentação 1](https://github.com/seu-usuario/seu-repo/blob/main/assets/Explicação%20App%20\(Apresentação%202\).png)
-![Apresentação 2](https://github.com/seu-usuario/seu-repo/blob/main/assets/Explicação%20App%20\(Apresentação%203\).png)
+![Apresentação 1](./kick-imgs/explicação%20app%20\(Apresentação%202\).png)
+![Apresentação 2](./kick-imgs/Explicação%20App%20\(Apresentação\).png)
 
 ---
 
@@ -21,7 +21,7 @@ Aqui está uma sugestão de estilização profissional e criativa para a apresen
 
 Visualize locais, marque jogos e explore equipes e campos próximos com o mapa interativo integrado:
 
-![Mapa do App](https://github.com/seu-usuario/seu-repo/blob/main/assets/Botão%20de%20navegação%20pós%20clique.png)
+![Mapa do App](./kick-imgs/botão%20de%20navegação%20pós%20clique.png)
 
 ---
 
@@ -40,7 +40,7 @@ Visualize locais, marque jogos e explore equipes e campos próximos com o mapa i
 * Flutter / Dart
 * Firebase Auth & Firestore
 * Google Maps API
-* Design com Figma (inspirado no tema esportivo)
+* Design com Figma (tema esportivo e gamificado)
 
 ---
 
@@ -71,8 +71,24 @@ flutter run
 
 ## 📸 Capturas de Tela
 
-| Tela Inicial                                                                                                    | Explicação                                                                                                      | Mapa Interativo                                                                                             |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![Tela 1](https://github.com/seu-usuario/seu-repo/blob/main/assets/Explicação%20App%20\(Apresentação%202\).png) | ![Tela 2](https://github.com/seu-usuario/seu-repo/blob/main/assets/Explicação%20App%20\(Apresentação%203\).png) | ![Mapa](https://github.com/seu-usuario/seu-repo/blob/main/assets/Botão%20de%20navegação%20pós%20clique.png) |
+| Tela Inicial                                                 | Explicação                                               | Mapa Interativo                                            |
+| ------------------------------------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------- |
+| ![](./kick-imgs/explicação%20app%20\(Apresentação%202\).png) | ![](./kick-imgs/Explicação%20App%20\(Apresentação\).png) | ![](./kick-imgs/botão%20de%20navegação%20pós%20clique.png) |
 
 ---
+
+## 🤝 Contribuições
+
+Contribuições são muito bem-vindas!
+Sinta-se à vontade para abrir *issues*, sugerir melhorias ou enviar *pull requests*.
+
+---
+
+## 📧 Contato
+
+📩 [seu-email@email.com](mailto:seu-email@email.com)
+🔗 [LinkedIn](https://linkedin.com/in/seu-usuario)
+
+---
+
+Se quiser, posso gerar esse conteúdo como um arquivo `README.md` formatado e pronto para você copiar/colar ou fazer upload direto. Deseja isso?
