@@ -4,7 +4,7 @@ Aqui está uma sugestão de estilização profissional e criativa para a apresen
 
 # ⚽ KickOff – Jogue, Conecte, Evolua!
 
-![KickOff Logo](https://github.com/seu-usuario/seu-repo/blob/main/assets/Icone%20App.png)
+![KickOff Logo](./kick-imgs)
 
 **KickOff** é um aplicativo mobile que conecta pessoas para jogar futebol amador. Organize seus rachões, encontre partidas próximas e participe da comunidade futebolística local — tudo com poucos cliques!
 
